@@ -367,3 +367,7 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+.award {
+  color: red;
+  font-weight: bold;
+}
