@@ -62,6 +62,10 @@ def paper_html(entry, links, selected=False):
     text = re.sub(r"^\\\[[JC]\d+\\\]\s*", "", entry["text"])
     text = text.replace("``", '"').replace("“", '"').replace("”", '"')
     text = re.sub(r"\s+", " ", text)
+    conference_award = False
+    if entry["kind"] == "conference":
+        text, award_count = re.subn(r"\s*\(\*Best Paper Award\*\)", "", text)
+        conference_award = award_count > 0
     rendered = inline(text)
     candidate = links.get(entry["id"], {})
     matched = normalize(candidate.get("title", "")) == normalize(entry["title"])
@@ -78,6 +82,8 @@ def paper_html(entry, links, selected=False):
     number = entry["id"]
     element_id = f"selected-{number}" if selected else number
     badges = []
+    if conference_award:
+        badges.append('<span class="paper-recognition" title="Best Paper Award">Best Paper Award</span>')
     for recognition in candidate.get("recognitions", []) if matched else []:
         label = html.escape(recognition["label"])
         description = recognition.get("description", recognition["label"])
@@ -253,8 +259,8 @@ def build(output=ROOT):
     output.mkdir(parents=True, exist_ok=True)
     entries = parse_publications()
     ids = [entry["id"] for entry in entries]
-    expected = {f"J{i}" for i in range(1, 42)} | {f"C{i}" for i in range(1, 8)}
-    assert len(ids) == len(set(ids)) == 48 and set(ids) == expected, "Publication records are missing or duplicated"
+    expected = {f"J{i}" for i in range(1, 43)} | {f"C{i}" for i in range(1, 8)}
+    assert len(ids) == len(set(ids)) == len(expected) and set(ids) == expected, "Publication records are missing or duplicated"
     assert next(entry for entry in entries if entry["id"] == "J40")["kind"] == "journal"
     links = json.loads((SOURCES / "publication_links.json").read_text())
     (output / "index.html").write_text(page("index.html", "Home", home(entries, links), "Shengyu Zhang, Full Professor at Xidian University. Research on non-terrestrial networks, digital twins, and intelligent wireless systems."))
