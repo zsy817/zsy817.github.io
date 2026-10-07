@@ -63,7 +63,8 @@ def paper_html(entry, links, selected=False):
     text = re.sub(r"\s+", " ", text)
     rendered = inline(text)
     candidate = links.get(entry["id"], {})
-    doi = candidate.get("doi", "") if normalize(candidate.get("title", "")) == normalize(entry["title"]) else ""
+    matched = normalize(candidate.get("title", "")) == normalize(entry["title"])
+    doi = candidate.get("doi", "") if matched else ""
     if not re.fullmatch(r"https://doi\.org/10\.\d{4,9}/[^\s]+", doi):
         doi = ""
     title_html = html.escape(entry["title"])
@@ -75,9 +76,22 @@ def paper_html(entry, links, selected=False):
     doi_link = f' <a class="paper-link" href="{html.escape(doi)}" aria-label="DOI for {title_html}">DOI <span aria-hidden="true">↗</span></a>' if doi else ""
     number = entry["id"]
     element_id = f"selected-{number}" if selected else number
+    badges = []
+    for recognition in candidate.get("recognitions", []) if matched else []:
+        label = html.escape(recognition["label"])
+        description = recognition.get("description", recognition["label"])
+        if recognition.get("verification") == "author-reported":
+            description += " Status supplied by the author; not independently verified against an ESI snapshot."
+        attributes = f'class="paper-recognition" title="{html.escape(description, quote=True)}"'
+        url = recognition.get("url", "")
+        if url.startswith("https://"):
+            badges.append(f'<a {attributes} href="{html.escape(url, quote=True)}">{label}</a>')
+        else:
+            badges.append(f'<span {attributes}>{label}</span>')
+    recognition_html = f'<p class="paper-recognitions">{" ".join(badges)}</p>' if badges else ""
     return (f'<li class="publication" id="{element_id}" data-year="{entry["year"]}" '
             f'data-kind="{entry["kind"]}"><span class="paper-number">[{number}]</span>'
-            f'<div><p>{rendered}{doi_link}</p></div></li>')
+            f'<div><p>{rendered}{doi_link}</p>{recognition_html}</div></li>')
 
 
 def page(filename, title, body, description, publication=False):

@@ -1,4 +1,8 @@
 {
+  "J40": {
+    "title": "Mimic Covert Communication in Non-Terrestrial Networks with Partial Warden Location",
+    "doi": "https://doi.org/10.1109/tmc.2026.3737846"
+  },
   "J39": {
     "title": "Hierarchical Digital Twin-Assisted RAN Resource Scheduling in Low-Altitude Scenarios",
     "doi": "https://doi.org/10.1109/tvt.2026.3706174"
@@ -15,6 +19,14 @@
     "title": "Failure Recovery for Network slicing in Software-Defined Integrated Satellite-Terrestrial Networks",
     "doi": "https://doi.org/10.1109/tmc.2026.3708374"
   },
+  "J35": {
+    "title": "GEMS: GAT-Embedded Mobility for Dual Connectivity in Integrated Terrestrial and Non-terrestrial Networks",
+    "doi": "https://doi.org/10.1109/tmc.2026.3681814"
+  },
+  "J34": {
+    "title": "Beyond Space Routers: Revisiting the Role of LEO Satellite Constellations in Future Global Internet Architecture",
+    "doi": "https://doi.org/10.1109/mwc.2026.3671755"
+  },
   "J33": {
     "title": "RadioRS: A Sampling-Free Low-Altitude Wireless Networks Leveraging Radio Maps and Rate-Splitting",
     "doi": "https://doi.org/10.1109/tmc.2026.3664463"
@@ -22,6 +34,20 @@
   "J32": {
     "title": "Maintaining Predictable QoS for Online Service Provisioning in Non-Terrestrial Networks via Safe Transfer Learning",
     "doi": "https://doi.org/10.1109/ton.2025.3631083"
+  },
+  "J31": {
+    "title": "Matchmaker: Maintaining QoS-aware and Predictable Load Balancing Performance for LEO Mega-Constellations",
+    "doi": "https://doi.org/10.1109/tcomm.2025.3618176"
+  },
+  "J30": {
+    "title": "FARS: Elevating Rate-Splitting Multiple Access in Non-Territorial Networks with Intelligent Fluid Antenna System",
+    "doi": "https://doi.org/10.1109/jsac.2025.3614211",
+    "recognitions": [{
+      "label": "IEEE ComSoc Best Readings",
+      "url": "https://www.comsoc.org/publications/best-readings/reconfigurable-antennas-reliable-communications",
+      "description": "Best Readings in Reconfigurable Antennas for Reliable Communications (September 2026).",
+      "verification": "public-source"
+    }]
   },
   "J29": {
     "title": "MetaRS: A Self-Intelligent Rate-Splitting Approach for Co-Existing Space-Air-Ground Integrated Networks",
@@ -33,7 +59,25 @@
   },
   "J27": {
     "title": "Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks",
-    "doi": "https://doi.org/10.1109/mcom.001.2500138"
+    "doi": "https://doi.org/10.1109/mcom.001.2500138",
+    "recognitions": [
+      {
+        "label": "ESI Hot Paper",
+        "description": "Essential Science Indicators: Hot Paper.",
+        "verification": "author-reported"
+      },
+      {
+        "label": "ESI Highly Cited Paper",
+        "description": "Essential Science Indicators: Highly Cited Paper.",
+        "verification": "author-reported"
+      },
+      {
+        "label": "IEEE ComSoc Best Readings",
+        "url": "https://www.comsoc.org/publications/best-readings/reconfigurable-antennas-reliable-communications",
+        "description": "Best Readings in Reconfigurable Antennas for Reliable Communications (September 2026).",
+        "verification": "public-source"
+      }
+    ]
   },
   "J26": {
     "title": "SPACECACHE+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations",
@@ -53,7 +97,17 @@
   },
   "J22": {
     "title": "Personalizing Rate-Splitting in Vehicular Communication via Large Multi-Modal Model",
-    "doi": "https://doi.org/10.1007/s11432-024-4423-4"
+    "doi": "https://doi.org/10.1007/s11432-024-4423-4",
+    "recognitions": [{
+      "label": "SCIENTIA SINICA Informationis · 精选文章导读",
+      "url": "https://doi.org/10.1360/SSI-2025-0539",
+      "description": "Featured in 中国科学：信息科学 (SCIENTIA SINICA Informationis), 精选文章导读, 2026, 56(3): 741–742. Guide: 基于多模态大模型的个性化速率拆分在车联网中的应用.",
+      "verification": "public-source"
+    }]
+  },
+  "J21": {
+    "title": "Spatio-Temporal Mixing for Computational Offloading in Satellite Edge Networks with Channel Uncertainty",
+    "doi": "https://doi.org/10.1109/twc.2025.3552052"
   },
   "J20": {
     "title": "Federated Learning-assisted Predictive Beamforming for Extremely Large-scale Antenna Array systems with Rate-Splitting Multiple Access",
@@ -81,15 +135,29 @@
   },
   "J14": {
     "title": "Transformer-based channel prediction for rate-splitting multiple access-enabled vehicle-to-everything communication",
-    "doi": "https://doi.org/10.1109/twc.2024.3395670"
+    "doi": "https://doi.org/10.1109/twc.2024.3395670",
+    "recognitions": [{
+      "label": "Nature Reviews Electrical Engineering · Research Highlight",
+      "url": "https://www.nature.com/articles/s44287-024-00065-2",
+      "description": "Research Highlight: Rate-splitting multiple-access-enabled V2X communications, Nature Reviews Electrical Engineering 1, 357 (4 June 2024).",
+      "verification": "public-source"
+    }]
   },
   "J13": {
     "title": "Urban Internet of Electric Vehicle Parking System for Vehicle-to-Grid Scheduling: Formulation and Distributed Algorithm",
     "doi": "https://doi.org/10.1109/tvt.2023.3304718"
   },
+  "J12": {
+    "title": "Efficient embedding of service function chains in space-division multiplexing elastic optical networks",
+    "doi": "https://doi.org/10.1016/j.comnet.2023.109869"
+  },
   "J11": {
     "title": "Rate Splitting Multiple Access-based Satellite-Vehicular Communication System: A Non-cooperative Game Theoretical Approach",
     "doi": "https://doi.org/10.1109/ojcoms.2023.3240163"
+  },
+  "J10": {
+    "title": "Revisiting the modulation format selection problem in crosstalk-aware SDM-EONs",
+    "doi": "https://doi.org/10.1016/j.comnet.2022.109524"
   },
   "J9": {
     "title": "Efficient Rate-Splitting Multiple Access for the Internet of Vehicles: Federated Edge Learning and Latency Minimization",
@@ -131,6 +199,14 @@
     "title": "RadioDT: Towards QoS-aware and Reliable Communications in Non-Terrestrial Networks",
     "doi": "https://doi.org/10.1109/icct67417.2025.11374220"
   },
+  "C6": {
+    "title": "Oracle: QoS-aware Online Service Provisioning in Non-Terrestrial Networks with Safe Transfer Learning",
+    "doi": "https://doi.org/10.1109/infocom55648.2025.11044634"
+  },
+  "C5": {
+    "title": "Multi-Uncertainty Aware Autonomous Cooperative Planning",
+    "doi": "https://doi.org/10.1109/iros58592.2024.10802006"
+  },
   "C4": {
     "title": "Achieving Predictable and Scalable Load Balancing Performance in LEO Mega-Constellations",
     "doi": "https://doi.org/10.1109/icc51166.2024.10623014"
@@ -138,6 +214,10 @@
   "C3": {
     "title": "Starvation-aware Entanglement Quantum Routing for Quantum Key Distribution",
     "doi": "https://doi.org/10.1109/icce59016.2024.10444263"
+  },
+  "C2": {
+    "title": "Energy-efficient Federated Edge Learning for Internet of Vehicles via Rate-Splitting Multiple Access",
+    "doi": "https://doi.org/10.1109/iswcs56560.2022.9940330"
   },
   "C1": {
     "title": "Effective utilization of transponder in elastic CD-ROADM optical networks with traffic grooming",

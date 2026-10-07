@@ -29,8 +29,8 @@ Low-Earth Orbit Mega-Constellations," in IEEE Transactions on Services Computing
 - \[J25\] *S. Zhang*, F. Wang, Y. Mao, A.L. Jin, and Tony Q.S. Quek, "Rate-Splitting Multiple Access for Near Field Communications with Imperfect CSIT and SIC," in IEEE Transactions on Communications, vol. 73, no. 11, pp. 10538-10553, Nov. 2025.
 - \[J24\] *S. Zhang*, F. Wang, H. Yang, J. Si, Z. Li, and Tony Q.S. Quek, "Fast-Adaptive Beamforming for Rate-Splitting Multiple Access-aided Space-Air-Ground Integrated Networks with Few-Shot Samples," in IEEE Transactions on Wireless Communications, vol. 25, pp. 148-162, 2026.
 - \[J23\] F. Wang, *S. Zhang*, H. Yang and Tony Q.S. Quek, "Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions," in Engineering, vol. 54, pp. 56-68, 2025.
-- \[J22\] *S. Zhang*, S. Zhang, W. Yuan, J. Shi, Z. Li and Tony Q.S. Quek, "Personalizing Rate-Splitting in Vehicular Communication via Large Multi-Modal Model," in SCIENCE CHINA Information Sciences, vol. 68, no.170305, June 2025.
-- \[J21\] *S. Zhang*, H. Yang, F. Wang, J. Si, Z. Li and Tony Q.S. Quek, "Spatial–Temporal Mixing for Computational Offloading in Satellite Edge Networks with Channel Uncertainty," in IEEE Transactions on Wireless Communications, vol. 24, no. 7, pp. 6151-6165, July 2025.
+- \[J22\] *S. Zhang*, S. Zhang, W. Yuan, J. Shi, Z. Li and Tony Q.S. Quek, "Personalizing Rate-Splitting in Vehicular Communication via Large Multi-Modal Model," in SCIENCE CHINA Information Sciences, vol. 68, no.170305, July 2025.
+- \[J21\] *S. Zhang*, H. Yang, F. Wang, J. Si, Z. Li and Tony Q.S. Quek, "Spatio-Temporal Mixing for Computational Offloading in Satellite Edge Networks with Channel Uncertainty," in IEEE Transactions on Wireless Communications, vol. 24, no. 7, pp. 6151-6165, July 2025.
 - \[J20\] *S. Zhang*, Y. Mao, Z. Chen, B. Clerckx and Tony Q.S. Quek, "Federated Learning-assisted Predictive Beamforming for Extremely Large-scale Antenna Array systems with Rate-Splitting Multiple Access," in IEEE Journal of Selected Topics in Signal Processing, vol. 19, no. 2, pp. 461-476, March 2025.
 === 2024
 - \[J19\] S. Zhang and *S. Zhang*\*, "Efficient Federated Connected Electric Vehicle Scheduling System: A Noncooperative Online Incentive Approach," in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 3, pp. 3934-3946, March 2025.
@@ -41,9 +41,9 @@ Low-Earth Orbit Mega-Constellations," in IEEE Transactions on Services Computing
 - \[J14\] *S. Zhang*, S. Zhang, Y. Mao, K. L. Yeung, B. Clerckx and Tony Q.S. Quek, "Transformer-based channel prediction for rate-splitting multiple access-enabled vehicle-to-everything communication," in IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 12717-12730, Oct. 2024.
 === Before 2024
 - \[J13\] *S. Zhang*, S. Zhang,  J. J. Q. Yu and K. L. Yeung, "Urban Internet of Electric Vehicle Parking System for Vehicle-to-Grid Scheduling: Formulation and Distributed Algorithm," in IEEE Transactions on Vehicular Technology, vol. 73, no. 1, pp. 67-79, Jan. 2024.
-- \[J12\]  *S. Zhang* and K. L. Yeung, "Efficient Deployment of Service Function Chains in Space-Division Multiplexing Elastic Optical Networks," in Computer Networks, vol. 233, pp. 109869, September, 2023.
+- \[J12\]  *S. Zhang* and K. L. Yeung, "Efficient embedding of service function chains in space-division multiplexing elastic optical networks," in Computer Networks, vol. 233, pp. 109869, September, 2023.
 - \[J11\]  *S. Zhang*, S. Zhang,  W. Yuan and Tony Q.S. Quek, "Rate Splitting Multiple Access-based Satellite-Vehicular Communication System: A Non-cooperative Game Theoretical Approach," in IEEE Open Journal of the Communications Society, vol. 4, pp. 430-441, January, 2023.
-- \[J10\]  *S. Zhang* and K. L. Yeung, ``Revisiting the Modulation Format Selection in Crosstalk-aware SDM-EONs," in Computer Networks, vol. 221, pp. 109524, February, 2023.
+- \[J10\]  *S. Zhang* and K. L. Yeung, ``Revisiting the modulation format selection problem in crosstalk-aware SDM-EONs," in Computer Networks, vol. 221, pp. 109524, February, 2023.
 - \[J9\]  *S. Zhang*, S. Zhang,  W. Yuan, Y. Li and L. Hanzo, “Efficient Rate-Splitting Multiple Access for the Internet of Vehicles: Federated Edge Learning and Latency Minimization," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1468-1483, May, 2023.
 - \[J8\]  *S. Zhang* and K. L. Yeung, "Location Constrained Virtual Optical Network Embedding in Space-Division Multiplexing Elastic Optical Networks," in Computer Networks, vol. 220, pp. 109475, February, 2023.
 - \[J7\]  *S. Zhang*, K. L. Yeung and X. Li, "Segment Routing for Traffic Engineering and Effective Recovery in Low-Earth Orbit Satellite Constellations," in Digital Communications and Networks, vol. 10, no. 3, pp. 706-715, 2024.
@@ -58,9 +58,8 @@ Low-Earth Orbit Mega-Constellations," in IEEE Transactions on Services Computing
 - \[C7\] *S. Zhang*, F. Tao, Q. Yuan, S. Zhang, J. Shi, Z. Li, and Tony Q. S. Quek, 
 "RadioDT: Towards QoS-aware and Reliable Communications in Non-Terrestrial Networks," ICCT 2025. (*Best Paper Award*)
 - \[C6\]  *S. Zhang*, S. Dou, Z. Li, K. L. Yeung, and Tony Q.S. Quek, "Oracle: QoS-aware Online Service Provisioning in Non-Terrestrial Networks with Safe Transfer Learning," INFOCOM 2025.
-- \[C5\]  S. Zhang, H. Li, *S. Zhang*, S. Wang, D. W. K. Ng, and C. Xu, "Uncertainty-Aware Lidar-based Autonomous Cooperative Platooning," IROS 2024.
+- \[C5\]  S. Zhang, H. Li, *S. Zhang*, S. Wang, D. W. K. Ng, and C. Xu, "Multi-Uncertainty Aware Autonomous Cooperative Planning," IROS 2024.
 - \[C4\]  S. Dou, *S. Zhang* and K. L. Yeung, "Achieving Predictable and Scalable Load Balancing Performance in LEO Mega-Constellations," ICC 2024.
 - \[C3\]  *S. Zhang* and K. L. Yeung, "Starvation-aware Entanglement Quantum Routing for Quantum Key Distribution," ICCE 2024.
-- \[C2\]  *S. Zhang*, S. Zhang and K. L. Yeung, "Energy-efficient Federated Edge Learning for Internet of Vehicles over Rate-Splitting Multiple Access," ISWCS, 2022. *Invited*.
+- \[C2\]  *S. Zhang*, S. Zhang and K. L. Yeung, "Energy-efficient Federated Edge Learning for Internet of Vehicles via Rate-Splitting Multiple Access," ISWCS, 2022. *Invited*.
 - \[C1\]  *S. Zhang*, M. Zhu, Q. Sun, G Li and B Chen, "Effective utilization of transponder in elastic CD-ROADM optical networks with traffic grooming," APC 2018.
-
