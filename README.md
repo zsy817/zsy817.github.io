@@ -3,7 +3,7 @@
 Static website published at https://zsy817.github.io/.
 
 The public URLs and portrait are preserved. The site uses local CSS and JavaScript,
-with no build dependencies or third-party analytics.
+with no build dependencies. The homepage includes a third-party visitor map.
 
 ## Edit and rebuild
 
@@ -35,10 +35,13 @@ outside this repository. Never publish the original project's `token.rtf`.
 ## Visitor map
 
 The bottom of `sources/index.jemdoc` contains a native jemdoc raw HTML block
-(`~~~`, `{}{raw}`, HTML, `~~~`). Replace the comment inside `#visitor-map` with
-the map provider's complete embed code registered for `https://zsy817.github.io/`,
-then rebuild. The builder preserves the raw HTML without escaping it.
+(`~~~`, `{}{raw}`, HTML, `~~~`). It embeds the Flag Counter world map with
+the site's counter ID `5FDt`. The builder preserves the raw HTML without
+escaping it, so rebuilding does not remove the map.
 
-No widget ID has been configured yet. The empty container stays hidden and does
-not send visitor data to a third party. An active widget may collect visitors'
-IP-derived locations; use a provider and privacy notice appropriate for your site.
+The owner approved activation and the provider's terms on 7 October 2026.
+The map image request sends the visitor's IP to Flag Counter for country-level
+statistics. The homepage links to the provider's privacy policy. It starts with
+new widget loads, not historical website traffic. No email or paid account was
+created, and no third-party JavaScript is required. Keep this counter ID private
+to this site's embed so unrelated traffic does not enter its statistics.

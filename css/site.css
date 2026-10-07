@@ -71,9 +71,11 @@ select { min-width: 110px; }
 button { cursor: pointer; }
 button:hover { background: #e9eef4; }
 [hidden] { display: none !important; }
-.visitor-map { max-width: 360px; margin: 40px auto 0; text-align: center; }
+.visitor-map { max-width: 480px; margin: 40px auto 0; text-align: center; }
 .visitor-map:empty { display: none; }
 .visitor-map img, .visitor-map iframe, .visitor-map canvas { max-width: 100%; }
+.visitor-map img { display: block; height: auto; margin: 0 auto; }
+.visitor-map-note { margin-top: 10px; font-size: 11px; color: var(--muted); }
 footer { margin-top: 56px; border-top: 1px solid var(--rule); padding-top: 14px; color: var(--muted); font-size: 12px; }
 .skip-link { position: absolute; left: 12px; top: -60px; background: #fff; border: 1px solid var(--link); padding: 8px 14px; z-index: 2; }
 .skip-link:focus { top: 12px; }
