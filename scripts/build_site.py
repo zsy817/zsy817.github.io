@@ -259,7 +259,7 @@ def build(output=ROOT):
     output.mkdir(parents=True, exist_ok=True)
     entries = parse_publications()
     ids = [entry["id"] for entry in entries]
-    expected = {f"J{i}" for i in range(1, 43)} | {f"C{i}" for i in range(1, 8)}
+    expected = {f"J{i}" for i in range(1, 45)} | {f"C{i}" for i in range(1, 8)}
     assert len(ids) == len(set(ids)) == len(expected) and set(ids) == expected, "Publication records are missing or duplicated"
     assert next(entry for entry in entries if entry["id"] == "J40")["kind"] == "journal"
     links = json.loads((SOURCES / "publication_links.json").read_text())
