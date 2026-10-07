@@ -1,0 +1,66 @@
+# jemdoc: menu{MENU}{publication.html}
+= Publications
+
+== Articles under Review
+- \[J41\] Z. Li, D. Bian, *S. Zhang*\*, J. Shi, X. Liang, S. Zhang, and L. Zhou "Meteor Burst Communication–Enabled IoT Data Collection in Low-Altitude Wireless Networks," Submitted to IEEE for possible publication.
+
+
+
+== Peer-Reviewed Journal Papers
+=== 2026
+- \[J40\] *S. Zhang*, Z. Li, Y. Zhao, J. Shi, C. Wang, and Tony Q.S. Quek, "Mimic Covert Communication in Non-Terrestrial Networks with Partial Warden Location," in IEEE Transactions on Mobile Computing.
+- \[J39\] J. Yao, B. Li, L. Zhou, T. Liang, *S. Zhang*, M. Guizani, "Hierarchical Digital Twin-Assisted RAN Resource Scheduling in Low-Altitude Scenarios," in IEEE Transactions on Vehicular Technology.
+- \[J38\] *S. Zhang*, L. Zhou, F. Wang, S. Leng, Z. Li, and Tony Q.S. Quek, "FreeSat: enabling user-centric multi-satellite cooperative networks via AI-RAN," in SCIENCE CHINA Information Sciences.
+- \[J37\] Y. Ling, Z. Li, L. Guan, Z. Zhang,
+*S. Zhang*, and Tony Q.S. Quek, "Multi-Agent-Driven Cognitive Secure Communications in Satellite-Terrestrial Networks," in IEEE Transactions on Cognitive Communications and Networking, vol. 12, pp. 8929-8945, 2026.
+- \[J36\] H. Yang, *S. Zhang*\*, W. Liu, W. Pu, H. Zhou, Z. Li, and Tony Q.S. Quek\*, "Failure Recovery for Network slicing in Software-Defined Integrated Satellite-Terrestrial Networks," in IEEE Transactions on Mobile Computing, vol. 25, no. 10, pp. 18877-18894, Oct. 2026.
+- \[J35\] F. Wang, H. Yang, *S. Zhang*, X. He, L. Zhu, and Tony Q.S. Quek, "GEMS: GAT-Embedded Mobility for Dual Connectivity in Integrated Terrestrial and Non-terrestrial Networks," in IEEE Transactions on Mobile Computing, vol. 25, no. 10, pp. 15643-15659, Oct. 2026.
+- \[J34\] S. Dou, *S. Zhang*\*, X. Chen, Z. Guo, Tony Q.S. Quek\*, and L. K. Yeung "Beyond Space Routers: Revisiting the Role of LEO Satellite Constellations in Future Global Internet Architecture," in IEEE Wireless Communications, vol. 33, no. 3, pp. 31-38, June 2026.
+- \[J33\] *S. Zhang*, S. Zhang, W. Yuan, Z. Li, and Tony Q.S. Quek, "RadioRS: A Sampling-Free Low-Altitude Wireless Networks Leveraging Radio Maps and Rate-Splitting," in IEEE Transactions on Mobile Computing, vol. 25, no. 7, pp. 11287-11304, July 2026.
+=== 2025
+- \[J32\] *S. Zhang*, S. Dou, Z. Li, K. L. Yeung, and Tony Q.S. Quek, "Maintaining Predictable QoS for Online Service Provisioning in Non-Terrestrial Networks via Safe Transfer Learning," in IEEE Transactions on Networking, vol. 34, pp. 1745-1760, 2026.
+- \[J31\] S. Dou, J. Wu, *S. Zhang*, X. Chen, Tony Q.S. Quek and K. L. Yeung, "Matchmaker: Maintaining QoS-aware and Predictable Load Balancing Performance for LEO Mega-Constellations," in IEEE Transactions on Communications, vol. 73, no. 12, pp. 14078-14092, Dec. 2025.
+- \[J30\] *S. Zhang*, Z. Li, J. Shi, Y. Mao, S. Zhang and Tony Q.S. Quek, "FARS: Elevating Rate-Splitting Multiple Access in Non-Territorial Networks with Intelligent Fluid Antenna System," in IEEE Journal on Selected Areas in Communications, vol. 44, pp. 1045-1060, 2026.
+- \[J29\] *S. Zhang*, F. Wang, J. Shi, A.L. Jin, Z. Li and Tony Q.S. Quek, "MetaRS: A Self-Intelligent Rate-Splitting Approach for Co-Existing Space-Air-Ground Integrated Networks," in IEEE Transactions on Wireless Communications, vol. 25, pp. 3688-3704, 2026.
+- \[J28\] F. Wang, H. Yang, *S. Zhang*, J. Shi, Z. Li, and Tony Q.S. Quek, "Mobility-Aware Multicast Orchestration for Low-Altitude UAVs with Integrated Terrestrial and Non-Terrestrial Networks," in IEEE Transactions on Communications, vol. 73, no. 11, pp. 12854-12868, Nov. 2025.
+- \[J27\] F. Wang, *S. Zhang*\*, E. Hong, and Tony Q.S. Quek\*, "Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks," in IEEE Communications Magazine, vol. 63, no. 11, pp. 30-36, Nov. 2025.
+- \[J26\] S. Dou, *S. Zhang*\*, Z. Li, J. Wu,  X. Chen, and K. L. Yeung, "SPACECACHE+: Towards Pervasive Content Delivery via
+Low-Earth Orbit Mega-Constellations," in IEEE Transactions on Services Computing, vol. 18, no. 5, pp. 3206-3220, Sep.-Oct. 2025.
+- \[J25\] *S. Zhang*, F. Wang, Y. Mao, A.L. Jin, and Tony Q.S. Quek, "Rate-Splitting Multiple Access for Near Field Communications with Imperfect CSIT and SIC," in IEEE Transactions on Communications, vol. 73, no. 11, pp. 10538-10553, Nov. 2025.
+- \[J24\] *S. Zhang*, F. Wang, H. Yang, J. Si, Z. Li, and Tony Q.S. Quek, "Fast-Adaptive Beamforming for Rate-Splitting Multiple Access-aided Space-Air-Ground Integrated Networks with Few-Shot Samples," in IEEE Transactions on Wireless Communications, vol. 25, pp. 148-162, 2026.
+- \[J23\] F. Wang, *S. Zhang*, H. Yang and Tony Q.S. Quek, "Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions," in Engineering, vol. 54, pp. 56-68, 2025.
+- \[J22\] *S. Zhang*, S. Zhang, W. Yuan, J. Shi, Z. Li and Tony Q.S. Quek, "Personalizing Rate-Splitting in Vehicular Communication via Large Multi-Modal Model," in SCIENCE CHINA Information Sciences, vol. 68, no.170305, June 2025.
+- \[J21\] *S. Zhang*, H. Yang, F. Wang, J. Si, Z. Li and Tony Q.S. Quek, "Spatial–Temporal Mixing for Computational Offloading in Satellite Edge Networks with Channel Uncertainty," in IEEE Transactions on Wireless Communications, vol. 24, no. 7, pp. 6151-6165, July 2025.
+- \[J20\] *S. Zhang*, Y. Mao, Z. Chen, B. Clerckx and Tony Q.S. Quek, "Federated Learning-assisted Predictive Beamforming for Extremely Large-scale Antenna Array systems with Rate-Splitting Multiple Access," in IEEE Journal of Selected Topics in Signal Processing, vol. 19, no. 2, pp. 461-476, March 2025.
+=== 2024
+- \[J19\] S. Zhang and *S. Zhang*\*, "Efficient Federated Connected Electric Vehicle Scheduling System: A Noncooperative Online Incentive Approach," in IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 3, pp. 3934-3946, March 2025.
+- \[J18\] *S. Zhang*, Y. Mao, B. Clerckx and Tony Q.S. Quek, "Interference Management in Space-Air-Ground Integrated Networks with Fully Distributed Rate-Splitting Multiple Access," in IEEE Transactions on Wireless Communications, vol. 24, no. 1, pp. 149-164, Jan. 2025.
+- \[J17\] *S. Zhang*, S. Zhang, W. Yuan and Tony Q.S. Quek, "Transformer-empowered Predictive Beamforming for Rate-splitting Multiple Access in Non-Terrestrial Networks," in IEEE Transactions on Wireless Communications, vol. 23, no. 12, pp. 19776-19788, Dec. 2024.
+- \[J16\] F. Wang, *S. Zhang*\*, J. Shi, Z. Li and Tony Q.S. Quek\*, "Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks," in IEEE Transactions on Wireless Communications, vol. 23, no. 11, pp. 17115-17128, Nov. 2024.
+- \[J15\] S. Zhang, X. Zhu, *S. Zhang* and J. J. Q. Yu, "Non-cooperative coupled microgrid-transportation coordination system: A deep deterministic policy gradient-based approach," in International Journal of Electrical Power & Energy Systems, vol. 160, pp. 110092, 2024.
+- \[J14\] *S. Zhang*, S. Zhang, Y. Mao, K. L. Yeung, B. Clerckx and Tony Q.S. Quek, "Transformer-based channel prediction for rate-splitting multiple access-enabled vehicle-to-everything communication," in IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 12717-12730, Oct. 2024.
+=== Before 2024
+- \[J13\] *S. Zhang*, S. Zhang,  J. J. Q. Yu and K. L. Yeung, "Urban Internet of Electric Vehicle Parking System for Vehicle-to-Grid Scheduling: Formulation and Distributed Algorithm," in IEEE Transactions on Vehicular Technology, vol. 73, no. 1, pp. 67-79, Jan. 2024.
+- \[J12\]  *S. Zhang* and K. L. Yeung, "Efficient Deployment of Service Function Chains in Space-Division Multiplexing Elastic Optical Networks," in Computer Networks, vol. 233, pp. 109869, September, 2023.
+- \[J11\]  *S. Zhang*, S. Zhang,  W. Yuan and Tony Q.S. Quek, "Rate Splitting Multiple Access-based Satellite-Vehicular Communication System: A Non-cooperative Game Theoretical Approach," in IEEE Open Journal of the Communications Society, vol. 4, pp. 430-441, January, 2023.
+- \[J10\]  *S. Zhang* and K. L. Yeung, ``Revisiting the Modulation Format Selection in Crosstalk-aware SDM-EONs," in Computer Networks, vol. 221, pp. 109524, February, 2023.
+- \[J9\]  *S. Zhang*, S. Zhang,  W. Yuan, Y. Li and L. Hanzo, “Efficient Rate-Splitting Multiple Access for the Internet of Vehicles: Federated Edge Learning and Latency Minimization," in IEEE Journal on Selected Areas in Communications, vol. 41, no. 5, pp. 1468-1483, May, 2023.
+- \[J8\]  *S. Zhang* and K. L. Yeung, "Location Constrained Virtual Optical Network Embedding in Space-Division Multiplexing Elastic Optical Networks," in Computer Networks, vol. 220, pp. 109475, February, 2023.
+- \[J7\]  *S. Zhang*, K. L. Yeung and X. Li, "Segment Routing for Traffic Engineering and Effective Recovery in Low-Earth Orbit Satellite Constellations," in Digital Communications and Networks, vol. 10, no. 3, pp. 706-715, 2024.
+- \[J6\]  *S. Zhang* and K. L. Yeung, "Scalable Routing in Low-Earth Orbit Satellite Constellations: Architecture and Algorithms," in Computer Communications, vol. 188, pp.26-38, April, 2022.
+- \[J5\]  *S. Zhang*, K. L. Yeung and A. Jin, "LBFA: A Load-Balanced and Fragmentation-Aware Resource Allocation Algorithm in Space-Division Multiplexing Elastic Optical Networks" in Photonics, vol. 8, no. 10, pp. 456, October, 2021. *Invited*.
+- \[J4\]  *S. Zhang*, S. Shi, C. Qian and K. L. Yeung, "Fragmentation-Aware Entanglement Routing for Quantum Networks," in Journal of Lightwave Technology, vol. 39, no. 14, pp. 4584-4591, July, 2021.
+- \[J3\]  *S. Zhang* and K. L. Yeung, "Dynamic service provisioning in space-division multiplexing elastic optical networks," in Journal of Optical Communications and Networking, vol. 12, no. 11, pp. 335-343, November, 2020.
+- \[J2\]  M. Zhu, *S. Zhang*, G. Li and J. Zhang, "Cost-effective fiber fault monitoring using MLMW-OOCs in high-capacity PONs considering user geographical distribution," in Computer Communications, vol. 136, pp. 1-9, February, 2019.
+- \[J1\]  M. Zhu, *S. Zhang*, Q. Sun, G. Li, B. Chen and Q.Sun, "Fragmentation-aware VONE in elastic optical networks," in Journal of Optical Communications and Networking, vol. 10, no. 9, pp. 809-822, September, 2018.
+
+== International Conferences
+- \[C7\] *S. Zhang*, F. Tao, Q. Yuan, S. Zhang, J. Shi, Z. Li, and Tony Q. S. Quek, 
+"RadioDT: Towards QoS-aware and Reliable Communications in Non-Terrestrial Networks," ICCT 2025. (*Best Paper Award*)
+- \[C6\]  *S. Zhang*, S. Dou, Z. Li, K. L. Yeung, and Tony Q.S. Quek, "Oracle: QoS-aware Online Service Provisioning in Non-Terrestrial Networks with Safe Transfer Learning," INFOCOM 2025.
+- \[C5\]  S. Zhang, H. Li, *S. Zhang*, S. Wang, D. W. K. Ng, and C. Xu, "Uncertainty-Aware Lidar-based Autonomous Cooperative Platooning," IROS 2024.
+- \[C4\]  S. Dou, *S. Zhang* and K. L. Yeung, "Achieving Predictable and Scalable Load Balancing Performance in LEO Mega-Constellations," ICC 2024.
+- \[C3\]  *S. Zhang* and K. L. Yeung, "Starvation-aware Entanglement Quantum Routing for Quantum Key Distribution," ICCE 2024.
+- \[C2\]  *S. Zhang*, S. Zhang and K. L. Yeung, "Energy-efficient Federated Edge Learning for Internet of Vehicles over Rate-Splitting Multiple Access," ISWCS, 2022. *Invited*.
+- \[C1\]  *S. Zhang*, M. Zhu, Q. Sun, G Li and B Chen, "Effective utilization of transponder in elastic CD-ROADM optical networks with traffic grooming," APC 2018.
+

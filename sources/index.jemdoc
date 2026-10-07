@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}
+= Home
+
+~~~
+{}{img_left}{img/zsy.jpg}{alt text}{150}{200}{}
+
+== Shengyu Zhang
+
+\n
+Professor \n
+Hangzhou Institute of Technology \n
+Xidian University \n
+
+
+Email: zhangshengyu01 \[at\] xidian.edu.cn \n
+Tel: +86-13813979512 \n
+
+I am a Full Professor at the Hangzhou Institute of Technology, Xidian University, China. Previously, I was a Research Fellow at the Singapore University of Technology and Design, working with Prof. Tony Q. S. Quek (IEEE Fellow). I received my Ph.D. from The University of Hong Kong in 2023, supervised by Prof. K. L. Yeung, and my B.Eng. and M.Eng. degrees from Southeast University, Nanjing, China, in 2016 and 2019, respectively, working with Prof. Min Zhu.
+
+My research interests include non-terrestrial networks, digital twins, and intelligent wireless systems. My recent work focuses on reliable satellite-terrestrial networking, rate-splitting multiple access, radio maps, and learning-based resource management.
+
+I serve as an Associate Editor for the IEEE Open Journal of the Communications Society. I received the UCOM Young Scientist Award and the IEEE ICCT Best Paper Award in 2025.
+
+~~~
+
+~~~
+{}{raw}
+<div id="visitor-map" class="visitor-map" aria-label="Visitor location map"><!-- Replace this comment with the visitor-map embed code registered for zsy817.github.io. --></div>
+~~~

@@ -1,0 +1,146 @@
+{
+  "J39": {
+    "title": "Hierarchical Digital Twin-Assisted RAN Resource Scheduling in Low-Altitude Scenarios",
+    "doi": "https://doi.org/10.1109/tvt.2026.3706174"
+  },
+  "J38": {
+    "title": "FreeSat: enabling user-centric multi-satellite cooperative networks via AI-RAN",
+    "doi": "https://doi.org/10.1007/s11432-025-5012-4"
+  },
+  "J37": {
+    "title": "Multi-Agent-Driven Cognitive Secure Communications in Satellite-Terrestrial Networks",
+    "doi": "https://doi.org/10.1109/tccn.2026.3704834"
+  },
+  "J36": {
+    "title": "Failure Recovery for Network slicing in Software-Defined Integrated Satellite-Terrestrial Networks",
+    "doi": "https://doi.org/10.1109/tmc.2026.3708374"
+  },
+  "J33": {
+    "title": "RadioRS: A Sampling-Free Low-Altitude Wireless Networks Leveraging Radio Maps and Rate-Splitting",
+    "doi": "https://doi.org/10.1109/tmc.2026.3664463"
+  },
+  "J32": {
+    "title": "Maintaining Predictable QoS for Online Service Provisioning in Non-Terrestrial Networks via Safe Transfer Learning",
+    "doi": "https://doi.org/10.1109/ton.2025.3631083"
+  },
+  "J29": {
+    "title": "MetaRS: A Self-Intelligent Rate-Splitting Approach for Co-Existing Space-Air-Ground Integrated Networks",
+    "doi": "https://doi.org/10.1109/twc.2025.3605429"
+  },
+  "J28": {
+    "title": "Mobility-Aware Multicast Orchestration for Low-Altitude UAVs with Integrated Terrestrial and Non-Terrestrial Networks",
+    "doi": "https://doi.org/10.1109/tcomm.2025.3591176"
+  },
+  "J27": {
+    "title": "Constellation as a Service: Tailored Connectivity Management in Direct-Satellite-to-Device Networks",
+    "doi": "https://doi.org/10.1109/mcom.001.2500138"
+  },
+  "J26": {
+    "title": "SPACECACHE+: Towards Pervasive Content Delivery via Low-Earth Orbit Mega-Constellations",
+    "doi": "https://doi.org/10.1109/tsc.2025.3592385"
+  },
+  "J25": {
+    "title": "Rate-Splitting Multiple Access for Near Field Communications with Imperfect CSIT and SIC",
+    "doi": "https://doi.org/10.1109/tcomm.2025.3585513"
+  },
+  "J24": {
+    "title": "Fast-Adaptive Beamforming for Rate-Splitting Multiple Access-aided Space-Air-Ground Integrated Networks with Few-Shot Samples",
+    "doi": "https://doi.org/10.1109/twc.2025.3581899"
+  },
+  "J23": {
+    "title": "Non-Terrestrial Networking for 6G: Evolution, Opportunities, and Future Directions",
+    "doi": "https://doi.org/10.1016/j.eng.2025.05.013"
+  },
+  "J22": {
+    "title": "Personalizing Rate-Splitting in Vehicular Communication via Large Multi-Modal Model",
+    "doi": "https://doi.org/10.1007/s11432-024-4423-4"
+  },
+  "J20": {
+    "title": "Federated Learning-assisted Predictive Beamforming for Extremely Large-scale Antenna Array systems with Rate-Splitting Multiple Access",
+    "doi": "https://doi.org/10.1109/jstsp.2025.3532040"
+  },
+  "J19": {
+    "title": "Efficient Federated Connected Electric Vehicle Scheduling System: A Noncooperative Online Incentive Approach",
+    "doi": "https://doi.org/10.1109/tits.2024.3523488"
+  },
+  "J18": {
+    "title": "Interference Management in Space-Air-Ground Integrated Networks with Fully Distributed Rate-Splitting Multiple Access",
+    "doi": "https://doi.org/10.1109/twc.2024.3489219"
+  },
+  "J17": {
+    "title": "Transformer-empowered Predictive Beamforming for Rate-splitting Multiple Access in Non-Terrestrial Networks",
+    "doi": "https://doi.org/10.1109/twc.2024.3486673"
+  },
+  "J16": {
+    "title": "Sustainable UAV Mobility Support in Integrated Terrestrial and Non-terrestrial Networks",
+    "doi": "https://doi.org/10.1109/twc.2024.3450853"
+  },
+  "J15": {
+    "title": "Non-cooperative coupled microgrid-transportation coordination system: A deep deterministic policy gradient-based approach",
+    "doi": "https://doi.org/10.1016/j.ijepes.2024.110092"
+  },
+  "J14": {
+    "title": "Transformer-based channel prediction for rate-splitting multiple access-enabled vehicle-to-everything communication",
+    "doi": "https://doi.org/10.1109/twc.2024.3395670"
+  },
+  "J13": {
+    "title": "Urban Internet of Electric Vehicle Parking System for Vehicle-to-Grid Scheduling: Formulation and Distributed Algorithm",
+    "doi": "https://doi.org/10.1109/tvt.2023.3304718"
+  },
+  "J11": {
+    "title": "Rate Splitting Multiple Access-based Satellite-Vehicular Communication System: A Non-cooperative Game Theoretical Approach",
+    "doi": "https://doi.org/10.1109/ojcoms.2023.3240163"
+  },
+  "J9": {
+    "title": "Efficient Rate-Splitting Multiple Access for the Internet of Vehicles: Federated Edge Learning and Latency Minimization",
+    "doi": "https://doi.org/10.1109/jsac.2023.3240716"
+  },
+  "J8": {
+    "title": "Location Constrained Virtual Optical Network Embedding in Space-Division Multiplexing Elastic Optical Networks",
+    "doi": "https://doi.org/10.1016/j.comnet.2022.109475"
+  },
+  "J7": {
+    "title": "Segment Routing for Traffic Engineering and Effective Recovery in Low-Earth Orbit Satellite Constellations",
+    "doi": "https://doi.org/10.1016/j.dcan.2022.09.022"
+  },
+  "J6": {
+    "title": "Scalable Routing in Low-Earth Orbit Satellite Constellations: Architecture and Algorithms",
+    "doi": "https://doi.org/10.1016/j.comcom.2022.02.015"
+  },
+  "J5": {
+    "title": "LBFA: A Load-Balanced and Fragmentation-Aware Resource Allocation Algorithm in Space-Division Multiplexing Elastic Optical Networks",
+    "doi": "https://doi.org/10.3390/photonics8100456"
+  },
+  "J4": {
+    "title": "Fragmentation-Aware Entanglement Routing for Quantum Networks",
+    "doi": "https://doi.org/10.1109/jlt.2021.3070859"
+  },
+  "J3": {
+    "title": "Dynamic service provisioning in space-division multiplexing elastic optical networks",
+    "doi": "https://doi.org/10.1364/jocn.396197"
+  },
+  "J2": {
+    "title": "Cost-effective fiber fault monitoring using MLMW-OOCs in high-capacity PONs considering user geographical distribution",
+    "doi": "https://doi.org/10.1016/j.comcom.2019.01.005"
+  },
+  "J1": {
+    "title": "Fragmentation-aware VONE in elastic optical networks",
+    "doi": "https://doi.org/10.1364/jocn.10.000809"
+  },
+  "C7": {
+    "title": "RadioDT: Towards QoS-aware and Reliable Communications in Non-Terrestrial Networks",
+    "doi": "https://doi.org/10.1109/icct67417.2025.11374220"
+  },
+  "C4": {
+    "title": "Achieving Predictable and Scalable Load Balancing Performance in LEO Mega-Constellations",
+    "doi": "https://doi.org/10.1109/icc51166.2024.10623014"
+  },
+  "C3": {
+    "title": "Starvation-aware Entanglement Quantum Routing for Quantum Key Distribution",
+    "doi": "https://doi.org/10.1109/icce59016.2024.10444263"
+  },
+  "C1": {
+    "title": "Effective utilization of transponder in elastic CD-ROADM optical networks with traffic grooming",
+    "doi": "https://doi.org/10.1109/acp.2018.8595732"
+  }
+}
