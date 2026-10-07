@@ -261,6 +261,9 @@ def build(output=ROOT):
     ids = [entry["id"] for entry in entries]
     expected = {f"J{i}" for i in range(1, 45)} | {f"C{i}" for i in range(1, 8)}
     assert len(ids) == len(set(ids)) == len(expected) and set(ids) == expected, "Publication records are missing or duplicated"
+    review_numbers = [int(entry["id"][1:]) for entry in entries if entry["kind"] == "under-review"]
+    journal_numbers = [int(entry["id"][1:]) for entry in entries if entry["kind"] == "journal"]
+    assert not review_numbers or min(review_numbers) > max(journal_numbers), "Under-review journals must have the largest journal numbers"
     assert next(entry for entry in entries if entry["id"] == "J40")["kind"] == "journal"
     links = json.loads((SOURCES / "publication_links.json").read_text())
     (output / "index.html").write_text(page("index.html", "Home", home(entries, links), "Shengyu Zhang, Full Professor at Xidian University. Research on non-terrestrial networks, digital twins, and intelligent wireless systems."))
