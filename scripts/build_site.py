@@ -3,6 +3,7 @@
 No third-party packages are required. Run: python3 scripts/build_site.py
 """
 import argparse
+import hashlib
 import html
 import json
 from pathlib import Path
@@ -96,6 +97,10 @@ def paper_html(entry, links, selected=False):
 
 def page(filename, title, body, description, publication=False):
     menu = "".join(f'<a href="{url}"'+(' aria-current="page"' if url == filename else '')+f'>{name}</a>' for url, name in NAV)
+    css_path = ROOT / "css/site.css"
+    if not css_path.exists():
+        css_path = ROOT / "html/css/site.css"
+    css_version = hashlib.sha256(css_path.read_bytes()).hexdigest()[:10]
     script = '  <script src="js/publications.js" defer></script>' if publication else ""
     return f'''<!doctype html>
 <html lang="en">
@@ -107,7 +112,7 @@ def page(filename, title, body, description, publication=False):
   <title>{html.escape(title)} | Shengyu Zhang</title>
   <link rel="canonical" href="{SITE}/{'' if filename == 'index.html' else filename}">
   <link rel="icon" href="img/favicon.png">
-  <link rel="stylesheet" href="css/site.css">
+  <link rel="stylesheet" href="css/site.css?v={css_version}">
 {script}
 </head>
 <body>
